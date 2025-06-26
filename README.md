@@ -34,7 +34,7 @@ This is a React-based web interface demonstrating an adaptive (responsive) navig
 ### Step 1: Clone the Repository
 
 ```bash
-# git clone https://github.com/your-username/adaptive-navbar-react.git
+# git clone https://github.com/AAAdeola/Flexbox-Navbar.git
 cd flexbox-navbar
 
 # Install Dependencies: npm install
