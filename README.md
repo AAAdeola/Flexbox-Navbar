@@ -79,3 +79,33 @@ Extra enhancements were added: animations, transitions, toast notifications, and
 👤 Author
 Ashraf Akinde
 GitHub https://github.com/AAAdeola
+
+
+📌 Requirements Coverage Summary
+✅ Flexbox used for layout with proper alignment and spacing
+
+✅ Responsive design with hamburger menu for mobile
+
+✅ Keyboard accessible navigation, including focusable and tabbable links
+
+✅ All nav items have hover and focus styles
+
+✅ Implemented ARIA labels, proper contrast, and semantic HTML for accessibility compliance
+
+✅ Key Features
+
+Responsive Layout using CSS Flexbox
+
+Mobile Hamburger Menu with smooth toggle animation
+
+Sticky Navbar that stays fixed during scroll
+
+Keyboard Navigation support for accessibility
+
+ARIA-compliant elements for screen readers
+
+Hover and Focus States for interactive clarity
+
+Toast Notification for call-to-action feedback
+
+Clean, Animated, Modern UI using React and Bootstrap

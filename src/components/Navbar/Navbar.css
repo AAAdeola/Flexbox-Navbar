@@ -52,6 +52,30 @@
 }
 
 .hamburger {
+  background: none;
+  border: none;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  padding: 0.5rem;
+}
+
+.hamburger:focus {
+  outline: 2px solid #fff;
+  outline-offset: 2px;
+}
+
+.bar {
+  width: 25px;
+  height: 3px;
+  background-color: white;
+  border-radius: 2px;
+  transition: all 0.3s ease;
+}
+
+
+.hamburger {
   display: none;
   flex-direction: column;
   cursor: pointer;
